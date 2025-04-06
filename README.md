@@ -14,4 +14,4 @@ you can pan and zoom inside the viewport without affecting the camera’s perspe
 PanZoomSwap
 Script for quick switching between PanZoomCam and original camera
 
-https://www.youtube.com/watch?v=EbEcTnRbsr0&ab_channel=CGKorn
+[![Watch the video](https://img.youtube.com/vi/EbEcTnRbsr0/maxresdefault.jpg)](https://youtu.be/EbEcTnRbsr0)
