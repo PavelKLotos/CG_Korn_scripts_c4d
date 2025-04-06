@@ -9,3 +9,7 @@ PanZoomCam
 If you’ve worked in Maya or Blender,
 you probably know how convenient the 2D Pan/Zoom feature is —
 you can pan and zoom inside the viewport without affecting the camera’s perspective.
+
+![PanZoomSwap](https://github.com/user-attachments/assets/602b2696-4e58-4e74-9c7a-9eff4835a8c6)
+PanZoomSwap
+Script for quick switching between PanZoomCam and original camera
